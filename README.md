@@ -1,29 +1,5 @@
-# stock-trader
+<h1> Projeto StockTrader </h1>
 
-## Project setup
-```
-npm install
-```
+<p> O Stock Trader é um projeto que desenvolvi em quanto aprendia o framework Vue.js.</p>
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+<a> www.google.com <a/>
