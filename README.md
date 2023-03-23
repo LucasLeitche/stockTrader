@@ -1,29 +1,22 @@
-<h1> Projeto StockTrader </h1>
+# Stock Trader
 
-<a> https://lucasleitche.github.io/stockTrader/ <a/>
+CRUD e listagem de ações de investimentos.
 
-<h2>Ferramentas</h2>
-
+<strong>Tecnologias</strong>
 <ul>
-  <li>
-    <strong>Vue.js</strong>
-  </li>
-  
-  <li>
-    <strong>Vuetify</strong>
-  </li>
-  
-  <li>
-    <strong>VueRouter</strong>
-  </li>
-  
-  <li>
-    <strong>Vuex</strong>
-  </li>
-  
-  <li>
-    <strong>Axios</strong>
-  </li>
+  <li>Vue 2, Vuex, Vue Router</li>
+  <li>Axios</li>
+  <li>Firebase</li>
 </ul>
 
+<h2> Para visualizar no ambiente de desenvolvimento </h2>
 
+git clone https://github.com/LucasLeitche/stockTrader.git
+
+cd applience
+
+git checkout developer
+
+npm i --save
+
+npm run dev
